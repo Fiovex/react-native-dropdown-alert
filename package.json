@@ -1,0 +1,21 @@
+{
+  "name": "@fiovex/react-native-dropdown-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fiovex",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "16.9.x",
+    "react-native": "0.61.x",
+    "prop-types": "^15.5.10"
+  },
+  "devDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.4",
+    "prop-types": "^15.5.10"
+  }
+}
