@@ -53,6 +53,7 @@ declare interface DropdownAlertProps {
   messageTextProps: object;
   useAnimationLock: boolean;
   onTap: Function;
+  ref: React.LegacyRef<DropdownAlertProps>;
 }
 
 declare const DropdownAlert: React.FunctionComponent<DropdownAlertProps>;
